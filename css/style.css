@@ -1,0 +1,22 @@
+
+P{          margin:35px ; 
+	        color: yellow;
+
+			color:black ;
+			font-size: 25px;
+		}
+		div{
+			width: 60%;
+			margin: auto;
+		}
+		a{
+			color: 	red;
+		}
+	    h1{
+		    color: red;
+	    }
+	   img{
+	   	max-width: 100%;
+	   	height: auto;
+	   	display: block;
+	   }
